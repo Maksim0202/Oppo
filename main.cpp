@@ -1,5 +1,6 @@
 double my_pow(double num, int deg)
 {
+
 	 if (deg == 0)
         return 1;
     else if (deg == 1)
